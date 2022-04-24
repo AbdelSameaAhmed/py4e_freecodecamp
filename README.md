@@ -1,2 +1,2 @@
 # py4e_freecodecamp
-learn python from freecodecamp py4e
+learn python from freecodecamp python for everyone
